@@ -1,0 +1,17 @@
+.texto {
+  background-color: black;
+  text-align: center;
+  font-size: medium arial;
+  color: white;
+}
+
+h1:hover {
+  /* background-color: yellow;*/
+  color: yellow;
+}
+
+.c {
+  background-color: chartreuse;
+  font-size: xx-large;
+  text-align: center;
+}
